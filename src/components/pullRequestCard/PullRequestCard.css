@@ -50,6 +50,7 @@
   width: 5%;
   float: left;
   text-align: left;
+  border-radius: 10px;
 }
 
 .pr-title-header {
@@ -169,6 +170,7 @@
   display: inline-block;
   width: auto;
   height: 40px;
+  border-radius: 10px;
 }
 
 .merge-by-img {
@@ -176,6 +178,7 @@
   margin-left: 10px;
   height: 20px;
   width: auto;
+  border-radius: 10px;
 }
 
 #tooltip-top > .tooltip-inner {

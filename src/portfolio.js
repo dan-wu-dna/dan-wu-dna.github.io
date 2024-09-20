@@ -1,8 +1,7 @@
 //SEO Related settings
 const seo = {
   title: "Kiran's Portfolio",
-  description:
-    "Kiran's Personal Portfolio",
+  description: "Kiran's Personal Portfolio",
   og: {
     title: "Kiran Naragund Portfolio",
     type: "website",
@@ -14,9 +13,9 @@ const seo = {
 const greeting = {
   title: "Kiran Naragund",
   logo_name: "KiranNaragund",
-  
+
   subTitle:
-    "Passionate about holistic solutions addressing complex challenges, I develop sustainable systems that make a positive impact through end-to-end product development.",
+    "An individual who converts vague specications and unrealistic expectations into usable software.",
   resumeLink:
     "https://drive.google.com/file/d/1pPQA2tOBkr9jm0zQ3AercUBWFhyv5Xvy/view?usp=sharing",
   portfolio_repository: "https://github.com/Kiran1689/Kiran1689.github.io",
@@ -24,37 +23,36 @@ const greeting = {
 };
 
 const socialMediaLinks = [
-
   {
     name: "Github",
     link: "https://github.com/Kiran1689",
-    fontAwesomeIcon: "fa-github", 
-    backgroundColor: "#181717", 
+    fontAwesomeIcon: "fa-github",
+    backgroundColor: "#181717",
   },
   {
     name: "LinkedIn",
     link: "https://www.linkedin.com/in/kiran-a-n",
-    fontAwesomeIcon: "fa-linkedin-in", 
-    backgroundColor: "#0077B5", 
+    fontAwesomeIcon: "fa-linkedin-in",
+    backgroundColor: "#0077B5",
   },
-  
+
   {
     name: "Gmail",
     link: "mailto:kirannaragund197@gmail.com",
-    fontAwesomeIcon: "fa-google", 
-    backgroundColor: "#D14836", 
+    fontAwesomeIcon: "fa-google",
+    backgroundColor: "#D14836",
   },
   {
     name: "Twitter",
     link: "https://twitter.com/kiran__a__n",
-    fontAwesomeIcon: "fa-twitter", 
-    backgroundColor: "#1DA1F2", 
+    fontAwesomeIcon: "fa-twitter",
+    backgroundColor: "#1DA1F2",
   },
   {
     name: "Instagram",
     link: "https://www.instagram.com/kiran_a_n/",
-    fontAwesomeIcon: "fa-instagram", 
-    backgroundColor: "#E4405F", 
+    fontAwesomeIcon: "fa-instagram",
+    backgroundColor: "#E4405F",
   },
 ];
 
@@ -64,10 +62,10 @@ const skills = {
       title: "Data Science & AI",
       fileName: "DataScienceImg",
       skills: [
-		  "⚡ Strong background in ETL (Extract, Transform, Load) processes for data preparation",
-		  "⚡ Hypothesis testing and statistical analysis techniques",
-		  "⚡ Skilled in creating compelling data visualizations with PowerBI for insights",
-		],
+        "⚡ Strong background in ETL (Extract, Transform, Load) processes for data preparation",
+        "⚡ Hypothesis testing and statistical analysis techniques",
+        "⚡ Skilled in creating compelling data visualizations with PowerBI for insights",
+      ],
 
       softwareSkills: [
         {
@@ -78,64 +76,64 @@ const skills = {
             color: "#3776AB",
           },
         },
-		{
-		  skillName: "Pandas",
-		  fontAwesomeClassname: "simple-icons:pandas",
-		  style: {
-			backgroundColor: "transparent",
-			color: "#150458",
-		  },
-		},
-		{
-		  skillName: "NumPy",
-		  fontAwesomeClassname: "simple-icons:numpy",
-		  style: {
-			backgroundColor: "transparent",
-			color: "#11557C",
-		  },
-		},
-		{
-		  skillName: "scikitlearn",
-		  fontAwesomeClassname: "simple-icons:scikitlearn",
-		  style: {
-			backgroundColor: "transparent",
-			color: "#F7931E",
-		  },
-		},
-		{
-		  skillName: "Scipy",
-		  fontAwesomeClassname: "simple-icons:scipy",
-		  style: {
-			backgroundColor: "transparent",
-			color: "#8CAAE6",
-		  },
-		},
-		
-		{
-		  skillName: "Data Visualization",
-		  fontAwesomeClassname: "simple-icons:powerbi",
-		  style: {
-			backgroundColor: "transparent",
-			color: "#E97627",
-		  },
-		},
-    {
-      skillName: "PyTorch",
-      fontAwesomeClassname: "logos-pytorch",
-      style: {
-        backgroundColor: "transparent",
-      },
-    },
+        {
+          skillName: "Pandas",
+          fontAwesomeClassname: "simple-icons:pandas",
+          style: {
+            backgroundColor: "transparent",
+            color: "#150458",
+          },
+        },
+        {
+          skillName: "NumPy",
+          fontAwesomeClassname: "simple-icons:numpy",
+          style: {
+            backgroundColor: "transparent",
+            color: "#11557C",
+          },
+        },
+        {
+          skillName: "scikitlearn",
+          fontAwesomeClassname: "simple-icons:scikitlearn",
+          style: {
+            backgroundColor: "transparent",
+            color: "#F7931E",
+          },
+        },
+        {
+          skillName: "Scipy",
+          fontAwesomeClassname: "simple-icons:scipy",
+          style: {
+            backgroundColor: "transparent",
+            color: "#8CAAE6",
+          },
+        },
+
+        {
+          skillName: "Data Visualization",
+          fontAwesomeClassname: "simple-icons:powerbi",
+          style: {
+            backgroundColor: "transparent",
+            color: "#E97627",
+          },
+        },
+        {
+          skillName: "PyTorch",
+          fontAwesomeClassname: "logos-pytorch",
+          style: {
+            backgroundColor: "transparent",
+          },
+        },
       ],
     },
     {
       title: "Full Stack Development",
       fileName: "FullStackImg",
       skills: [
-        "⚡ Building resposive website front end using React",
-        "⚡ Creating application backend in Node, Express & Django",
+        "⚡ Building responsive website front-end using React",
+        "⚡ Creating application backend in Node, Express, Flask & Django",
         "⚡ Designing and implementing RESTful APIs for seamless integration",
-        "⚡ Continuously learning and staying updated on the latest web development trends and technologies"
+        "⚡ Continuously learning and staying updated on the latest web development trends and technologies",
       ],
       softwareSkills: [
         {
@@ -153,10 +151,10 @@ const skills = {
           },
         },
         {
-          skillName: "Sass",
-          fontAwesomeClassname: "simple-icons:sass",
+          skillName: "TailwindCSS",
+          fontAwesomeClassname: "simple-icons:tailwindcss",
           style: {
-            color: "#CC6699",
+            color: "#06B6D4",
           },
         },
         {
@@ -182,10 +180,10 @@ const skills = {
           },
         },
         {
-          skillName: "NPM",
-          fontAwesomeClassname: "simple-icons:npm",
+          skillName: "Flask",
+          fontAwesomeClassname: "simple-icons:flask",
           style: {
-            color: "#CB3837",
+            color: "#000000",
           },
         },
         {
@@ -272,7 +270,7 @@ const skills = {
           },
         },
       ],
-    }
+    },
   ],
 };
 
@@ -378,7 +376,6 @@ const degrees = {
       website_link: "https://pes.edu/",
     },
 
-
     {
       title: "RTES PU Collage",
       subtitle: "Senior Secondary",
@@ -392,7 +389,6 @@ const degrees = {
       website_link: "https://goo.gl/maps/ZT65DK3HiezX19Ex7/",
     },
 
-
     {
       title: "Lions High School",
       subtitle: "Secondary",
@@ -405,10 +401,8 @@ const degrees = {
       ],
       website_link: "https://goo.gl/maps/5yHPApeyu2aGWv9J7/",
     },
-  ], 
+  ],
 };
-
-
 
 const competitiveSites = {
   competitiveSites: [
@@ -459,8 +453,7 @@ const competitiveSites = {
 const experience = {
   title: "Experience",
   subtitle: "Work, Internship and Volunteership",
-  description:
-    "",
+  description: "",
   header_image_path: "experience.svg",
   sections: [
     {
@@ -477,7 +470,7 @@ const experience = {
           description:
             "I'm currently working as a Full-Stack Developer at CyberWarFare Labs.",
           color: "#000000",
-        }
+        },
       ],
     },
     {
@@ -490,11 +483,9 @@ const experience = {
           logo_path: "blackbird.png",
           duration: "March 2023 - May 2023",
           location: "Virtual",
-          description:
-            "I have worked on client projects, and developed components for email and password form validation tasks using email-validator library and unit tested validation logic using jest.",
+          description: "Worked on client projects",
           color: "#000000",
-        }
-        
+        },
       ],
     },
     {
@@ -506,7 +497,7 @@ const experience = {
           company_url: "https://github.com/",
           logo_path: "github_logo.png",
           duration: "November 2023 - PRESENT",
-          location: "Work From Home",
+          location: "",
           description:
             "I am actively contributing to many opensource projects. I have contributed to projects of organisations like AutoGPT, Supabase, Tensorflow, Facebook, Scrapy, Exercism, Python, Github community, Forem etc. These contributions include bug fixes, feature requests and formulating proper documentation for project.",
           color: "#181717",
@@ -517,27 +508,26 @@ const experience = {
           company_url: "https://exercism.org/",
           logo_path: "exercism.png",
           duration: "September 2023 - PRESENT",
-          location: "Work From Home",
+          location: "",
           description:
             "Exercism is a coding platform for collaborative learning. As an active participant on Exercism I've mentored over 170+ students worldwide. Through real-world coding exercises, I am providing guidance to learners, helping them to enhance their programming skills and achieve their learning goals.",
           color: "#4285F4",
         },
         {
-          title: "Moderator",
+          title: "Tech Writer & Moderator",
           company: "Dev Community",
           company_url: "https://dev.to/",
           logo_path: "devcommunity.png",
           duration: "November 2023 - PRESENT",
-          location: "Work From Home",
+          location: "",
           description:
-            "I am a part of core community moderation team at DEV. As a DEV Tag Moderator, I actively contribute to organizing and improving content on DEV. ",
+            "I am a part of core community moderation team at DEV. Sharing tech related info to developers through my tech writing. As a DEV Tag Moderator, I actively contribute to organizing and improving content on DEV. ",
           color: "#fc1f20",
         },
-        
       ],
     },
   ],
-}
+};
 
 // Projects Page
 const projectsHeader = {
@@ -546,7 +536,6 @@ const projectsHeader = {
     "My projects makes use of vast variety of latest technology tools. My best experience is to create full-stack projects and deploy them to web applications using cloud infrastructure.",
   avatar_image_path: "projects_image.svg",
 };
-
 
 // Contact Page
 const contactPageData = {
@@ -565,8 +554,7 @@ const contactPageData = {
   },
   addressSection: {
     title: "Address",
-    subtitle:
-      "Ranebennur, T.A.-Ranebennur, Dist.-Haveri, Karnataka - 581115",
+    subtitle: "Ranebennur, T.A.-Ranebennur, Dist.-Haveri, Karnataka - 581115",
     avatar_image_path: "address_image.svg",
     location_map_link: "https://goo.gl/maps/cU6oYqqj55KfoH9w5",
   },
@@ -584,7 +572,7 @@ export {
   degrees,
   certifications,
   experience,
-  projectsHeader, 
+  projectsHeader,
   competitiveSites,
   contactPageData,
 };
