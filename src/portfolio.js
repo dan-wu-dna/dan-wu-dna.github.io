@@ -5,7 +5,7 @@ const seo = {
   og: {
     title: "Kiran Naragund Portfolio",
     type: "website",
-    url: "http://kirannaragund.com/",
+    url: "https://Kiran1689.github.io",
   },
 };
 
@@ -15,7 +15,7 @@ const greeting = {
   logo_name: "KiranNaragund",
 
   subTitle:
-    "An individual who converts vague specications and unrealistic expectations into usable software.",
+    "An individual who converts vague specifications and unrealistic expectations into usable software.",
   resumeLink:
     "https://drive.google.com/file/d/1pPQA2tOBkr9jm0zQ3AercUBWFhyv5Xvy/view?usp=sharing",
   portfolio_repository: "https://github.com/Kiran1689/Kiran1689.github.io",
